@@ -1,0 +1,1 @@
+insert into User ("emailAddress", "password") value ("admin@admin.com", "admin");
